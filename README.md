@@ -15,7 +15,7 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 * Machine Learning Algorithm
 * Linear regression
 * L1 and L2 regularization
-## Needs of this project
+## Requirements of this project
 * data exploration/descriptive statistics
 * data processing/cleaning
 * predictive modeling
